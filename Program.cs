@@ -1,5 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using RauraAriel01062023_1;
 using System.Security.Cryptography;
 
 Console.WriteLine("Hello, World!");
